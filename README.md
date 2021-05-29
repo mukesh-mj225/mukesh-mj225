@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning artificial intelligence and machine learning
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me mail me :- mukeshmj225@gmail.com
+- 📫 How to reach me by Email  :- mukeshmj225@gmail.com
 
 <!---
 mukesh-mj225/mukesh-mj225 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
